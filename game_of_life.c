@@ -1,4 +1,3 @@
-/* Copyright 2021 tloraq msamson bfarfetc*/
 #include<stdio.h>
 #include <unistd.h>
 #include <termios.h>
